@@ -1,7 +1,7 @@
 title:            No Time To Play
 description:      Describe your website here.
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: nasta-github
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
