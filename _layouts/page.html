@@ -20,6 +20,7 @@
       </header>
       <div class="entry-content" itemprop="description">
         {{ content }}
+        {% if site.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
