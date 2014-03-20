@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello to awesome"
+title:  "初试awesome"
 date:   2014-03-18
 comments: true
 categories: 
